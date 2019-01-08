@@ -1,5 +1,5 @@
 
-# pynerds-read-out-loud 
+# PyNerds Expense Tracker
 
 A Google Spreadsheet based expense tracker using python
 
